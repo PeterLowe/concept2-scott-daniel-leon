@@ -14,9 +14,10 @@ Pillars
 ...
 30 second gameplay description
 describe what its like to play the essence of the game loop
-...
+[S.M]
 Features points
-key selling points of your game
-...
+Your beloved assassins creed franchise but in space, free run on different planets, 
+large scale worlds with multiple different planets, 
+[S.M]
 Market analysis
 similar games , typical customer, expected sales
