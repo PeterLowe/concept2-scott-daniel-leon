@@ -20,11 +20,11 @@ Pillars
 ...
 30 second gameplay description
 describe what its like to play the essence of the game loop
-[SM] 
 [LN] The Templars have placed one of their agents as the head engineer of the Super ISS, and you are flown in a shuttle to a location in the orbit of the Station. In your space suit, you wait for the arrival of the Super ISS in the darkness of space and use a solid-light sling to hook yourself to the flying-by space station.
 One astronaut is on a space walk, you use the opportunity to slip into the station using the active camouflage system you picked up during the last mission. On the station, your main goal is to stay undetected. You slip into the the evil head engineers sleeping module, and once the opportunity arises, eject him out into space by opening an emergency exit. 
 Without a space suit, the engineer dies in space within seconds, mission complete.
 Features points
+[SM] 
 Your beloved assassins creed franchise but in space, free run on different planets, 
 large scale worlds with multiple different planets, plasma swords, open space combat.
 [SM]
