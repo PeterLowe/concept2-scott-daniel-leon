@@ -5,11 +5,14 @@
 
 Elevator pitch 
 Describe your game in 30 seconds or less
-Assassins Creed but instead of the protagonist projecting their mind to the past, they project their mind to the future to stop the templars from taking control over the time space continuum.
+[LN]Assassins Creed but instead of the protagonist projecting their mind to the past, they project their mind to the future to stop the templars from taking control over the time space continuum.
 You sabotage, infiltrate, and assassinate top secret targets in space stations, on planet surfaces, and in the vast emptiness of space itself. Make use of jetpacks, active camouflage technology, railguns, and solid-light blades to find the best way to take out your targets, and save humanity from the evil plans of your foes.
 ...
 World Background
 main differences in your game world
+[LN]The Templar order has infiltrated the global space agency, and the good-guy assassins need to thwart and take out the Templar's evil agents all across the Solar System. The Templar's hold control over the main bases of moons and planets, which you need to infiltrate
+and rid of the Templars' influnece one by one. But you need to do so with equipment that the assassin order has placed in secret locations all over earth and the moon before you can face the most powerful yet to appear in the Assassins Creed series: The Templar Dreadnought.
+The Dreadnought is a giant space-faring mech that has the power to manipulate time and space using the energy of the Sun. Should the mech  be finished, the Templars will have total control over the Space-Time-Continuum and eradicate the assassin order for good.
 ...
 Pillars
 3-4 fundementals of this game
